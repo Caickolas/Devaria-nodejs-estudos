@@ -1,0 +1,19 @@
+{
+    "name": "hellonpm",
+    "version": "0.0.1",
+    "description": "Projeto de teste do NPM",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Teste",
+        "NPM",
+        "Node.js"
+    ],
+    "author": "Caick Silva",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "moment": "^2.29.1"
+    }
+}
